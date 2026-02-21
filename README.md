@@ -5,7 +5,7 @@ Focused on building clean UI, responsive layouts, and animated web interfaces.
 
 ---
 
-##LinkHub
+## 🔗 LinkHub
 https://0ba.dev/
 
 ## 🖥 Portfolio

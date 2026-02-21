@@ -6,7 +6,7 @@ Focused on building clean UI, responsive layouts, and animated web interfaces.
 ---
 
 ## 🖥 Portfolio
-https://o1m0.github.io/portfolio/
+0ba.dev
 
 Custom-built portfolio with:
 - Responsive design (PC / Mobile)

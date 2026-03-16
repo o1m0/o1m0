@@ -36,10 +36,11 @@ Custom-built portfolio with:
 
 ---
 
-## 🛠 Skills
-HTML / CSS / JavaScript  
-Responsive Design / UI Animation  
-Git & GitHub  
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,mongodb,git,github,vscode,npm" />
+</p>
 
 ---
 

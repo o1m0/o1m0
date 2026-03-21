@@ -44,6 +44,21 @@ Custom-built portfolio with:
 
 ---
 
+## 💬 何を依頼できる？ / What can you ask me?
+
+以下のようなことに対応しています：
+
+- 🎨 **フロントエンド開発** — HTML / CSS / JavaScript を使ったUI実装
+- ✨ **UIアニメーション & インタラクション** — 動きのある表現・演出の実装
+- 📱 **レスポンシブデザイン** — PC・モバイル両対応のレイアウト構築
+- ⚛️ **Reactアプリ開発** — Vite + React を用いたSPA構築
+- 🛠 **ポートフォリオ / 個人サイト制作** — ゼロからのカスタム実装
+
+> 気軽に声をかけてください！  
+> Feel free to reach out anytime!
+
+---
+
 ## 🎓 Background
 Osaka Institute of Technology  
 Information Science Student
